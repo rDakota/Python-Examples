@@ -1,15 +1,3 @@
-# Fall '21 Python exercises
-## File_io
+# Python Examples
 
-
-## LeetCode
-
-
-## Lists_and_Dicts
-
-
-## Loops
-
-
-
-## Project
+Self practice and in-class examples
