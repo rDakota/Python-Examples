@@ -8,12 +8,9 @@ num = random.choice(l)
 print(num)
 die1 = random.randint(1, 6)
 die2 = random.randint(1, 6)
-
 print("Die1", die1, "Die2", die2)
 
-
-
-i = 1
+print(num)
 user = int(input("Enter a num: "))
 while i < user:
     print(i)
