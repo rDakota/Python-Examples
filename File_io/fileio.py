@@ -23,7 +23,7 @@
 # # #print(file_in[-1])
 # # print(len(file_in))
 
-# # # must close file
+# must close file
 #  f.close()
 #  out_file.close()
 
