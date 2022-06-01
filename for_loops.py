@@ -6,6 +6,7 @@ total_num_ls = 0
 
 s = "hello World"
 
+s = "Goodbye"
 for letter in s:
     if letter == 'l':
         total_num_ls += 1
