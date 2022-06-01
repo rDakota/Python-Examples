@@ -18,9 +18,8 @@ def concat(list_1, list_2):
         concat_list.append(word)
         index += 1
         
-    
     return concat_list # eventually return that list
-    
+
     
 # lists are the same length 
 l1 = ['M', 'na', 'i', 'Val']
