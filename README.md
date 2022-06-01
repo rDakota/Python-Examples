@@ -1,15 +1,15 @@
 # Fall '21 Python exercises
-## Lists
+## File_io
 
 
-## Exception Handling
+## LeetCode
+
+
+## Lists_and_Dicts
 
 
 ## Loops
 
 
-## Dictionaries
 
-
-
-## Mini-Programs
+## Project
