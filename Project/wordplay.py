@@ -40,7 +40,6 @@ def main():
         choice = int(input("Select your choice: "))
     
     if choice == 1:  # starts_and_ends_with
-        # need to get string to search for:
         substr = str(input("Enter the string to begin/end the word with: "))
         # read lines in words.txt and call starts_with_ends_with
         # to see if that line/word starts and ends with the substring
