@@ -20,10 +20,7 @@ my_list = [3, 7, 5, 10]
 # while index < len(my_list): # cannot do <= or one iteration too far
 #     my_list[index] += 3 # my_list[index] = my_list[index] + 3
 #     index += 1
-    
 # print(my_list)
-
-
 
 # List functions ->
 
