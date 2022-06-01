@@ -1,3 +1,3 @@
 # Python Examples
 
-Self Practice and in-class examples
+Self practice and in-class examples
