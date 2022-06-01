@@ -1,16 +1,15 @@
-# Python_Practice_yr1
-## Fall '21 Python exercises
-### Lists
+# Fall '21 Python exercises
+## Lists
 
 
-### Exception Handling
+## Exception Handling
 
 
-### Loops
+## Loops
 
 
-### Dictionaries
+## Dictionaries
 
 
 
-### Mini-Programs
+## Mini-Programs
